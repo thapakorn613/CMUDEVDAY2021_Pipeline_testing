@@ -13,4 +13,4 @@ local run Pre request <br/>
 วิธี Automate Test ผ่าน Azure pipeline <br/>
 1 สร้าง new project บน Azure DevOps <br/>
 2 push code เข้า branch master บน Azure DevOps Repository ของ new Project <br/>
-3 Azure DevOps จะ Automate Test ผ่าน Azure pipeline ให้เองเพระามี  azure-pipelines.yml ใน git แล้ว
+3 Azure DevOps จะ Automate Test ผ่าน Azure pipeline ให้เองเพราะมี  azure-pipelines.yml ใน git แล้ว
