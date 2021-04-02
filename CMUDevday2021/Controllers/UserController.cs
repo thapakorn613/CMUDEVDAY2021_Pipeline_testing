@@ -36,6 +36,8 @@ namespace CMUDevday2021.Controllers
             {
                 return Unauthorized();
             }
+            
+            console.log()
             List<Menu> menus = await _userRepository.getMenu(user.Account);
             return Ok(menus);
         }
